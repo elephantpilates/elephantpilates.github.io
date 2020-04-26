@@ -1,0 +1,21 @@
+---
+layout: default
+title: Geräte-Kurse
+modal-id: 2
+img: reformer.jpg
+alt: Geräte-Kurse
+marker: Zur Zeit können leider keine Kurse stattfinden
+
+LektionDuett: 80 CHF pro Lektion im Duett
+10AboDuett:  750 CHF, gültig für 4 Monate
+
+
+LektionPrivat: 125 CHF pro Lektion
+10AboPrivat: 1200 CHF, gültig für 4 Monate
+
+
+Zeiten: Zeiten auf Anfrage
+
+Location: Talstrasse 39, 8001 Zürich
+description: Wir trainieren an den 3 bekanntesten klassischen Pilates-Geräten, dem Reformer, Cadillac und Wunda Chair. Diese Stundenform bietet Dir das umfassendste und abwechslungsreichste Pilatestraining. Aufgrund der Raumgrösse können leider derzeit nur Duett- und Einzelstunden angeboten werden. Eine Lektion dauert 50 Minuten.
+---

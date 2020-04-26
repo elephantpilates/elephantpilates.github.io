@@ -1,0 +1,49 @@
+    <!-- Footer -->
+    <footer class="text-center">
+        <div class="footer-above">
+            <div class="container">
+                <div class="row">
+                    <div class="footer-col col-md-4">
+                        <h3>{{ site.footer.location }}</h3>
+                        <p>
+                            {% for adress in site.address %}
+                                {{ adress.line }} <br>
+		                    {% endfor %}
+                        </p>
+                    </div>
+                    <div class="footer-col col-md-4">
+                        <h3>{{ site.footer.social }}</h3>
+                        <ul class="list-inline">
+                            {% for network in site.social %}
+                            <li>
+                                <a href="{{ network.url }}" class="btn-social btn-outline"><i class="fa fa-fw fa-{{ network.title }}"></i></a>
+                                
+                            </li>
+		                    {% endfor %}
+                        </ul>
+                    </div>
+                    <a href="https://www.sportsnow.ch/go/elephantpilates" target="_blank"><img src="//s3-eu-central-1.amazonaws.com/sportsnow/production/assets/sportsnow_buttons/sportsnow-button-xs-de-409c54ec9e9f4abe4a02081d2a45ee419026fc4e603f2fac06aba619db929adf.png" alt="SportsNow" title="SportsNow"></a>
+                    <div class="footer-col col-md-4">
+                        <h3>{{ site.footer.credits }}</h3>
+                        <p>{{ site.credits }}</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="footer-below">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-12">
+                        Copyright &copy; {{ site.footer.copyright }} 20{{ site.time | date: '%y' }}
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Scroll to Top Button (Only visible on small and extra-small screen sizes) -->
+    <div class="scroll-top page-scroll visible-xs visible-sm">
+        <a class="btn btn-primary" href="#page-top">
+            <i class="fa fa-chevron-up"></i>
+        </a>
+    </div>

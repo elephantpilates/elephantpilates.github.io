@@ -1,0 +1,17 @@
+---
+title: Online Matten-Kurse
+
+layout: default
+modal-id: 3
+Sportsnow: ja
+img: fraumatte.jpg
+alt: Online Matten-Kurse
+
+#10Abo: 320 CHF, gültig für 4 Monate
+Lektion: 20 CHF pro Lektion
+
+Zeiten: DI 14:00-15:00 // DO 12:30-13:30
+Location: online in Deinem Wohnzimmer
+description: Du sitzt im Homeoffice, bewegst Dich fast gar nicht mehr und hast keine Lust auf das Nachturnen von Fitnessvideos? Dann sind unsere online-Kursen genau das Richtige für Dich. Suche Dir eine Matte oder weiche Unterlage und wähle Dich per Klick von Deinem Laptop, Tablet oder Mobilephone in den Kurs ein. Es erwartet Dich ein abwechslungsreiches Programm in kleiner Gruppengrösse, das Dich sowohl kräftigt als auch dehnt. Live durchgeführt und per Videostream übertragen. Eine gesunde und individuelle Abwechslung zum allgemeinen Homeoffice-Trott. Eine Lektion dauert 50 Minuten.
+
+---

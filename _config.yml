@@ -1,0 +1,80 @@
+# Site settings
+title: Elephant Pilates
+subtitle: Individuell.Persönlich.Flexibel
+email: elephantpilates@gmail.com
+url: https://github.com/jeromelachaud/freelancer-theme
+description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+keywords: "your keywords, separated by commas"
+#skills: "Pilatestraining an den Studiogeräten"
+skills: "Training an den Studiogeräten in Wetzikon und Zürich"
+meta_author: Deubler Sandra
+
+# Google webmaster tools
+google_verify:
+
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify:
+
+# Contact form:
+# - static : pass through formspree.io to validate email sending
+# - disqus : replace contact form by disqus thread
+# - comment the line below if you want to stick with the default PHP contact form
+contact: static
+
+# If you use disqus you need disqus shortname
+# https://help.disqus.com/customer/portal/articles/466208
+disqus_shortname: myshortname
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: 8fbc8f  #A3CCBC #80B3FF <! #87a180 #A2CD5A #C7E6AC deckseite A6BF8F grün: 9fc498, 8fbc8f
+  primary-rgb: "199, 221, 198" #"163,204,188" #"128,179,255" Hintergrund bei Projekten
+  secondary: 465a46 #5F6B39 #708C81 #FD6E8A Footer #6F8060
+  secondary-dark: 303c30 #3D4D47 #A2122F Überschrift
+  mobile-rgb: "255, 255, 255"
+  highlight: 704370
+
+#blau: 6495ed, 2874b2, 
+#türkis: 7fb5b5, 84c3be
+
+
+# Footer settings
+footer:
+  copyright: Inhaber Sandra Deubler, Langfurrenstrasse 38g, CH - 8623 Wetzikon
+  #location: Location
+  social: Weiteres
+  #credits: Credits
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+ - title: sportsnow
+   url: https://www.sportsnow.ch/go/elephantpilates
+  # - title: facebook
+  #   url:
+  # - title: stack-overflow
+  #   url: http://stackoverflow.com/questions/tagged/jekyll
+   #- title: bitbucket
+   #  url: http://bitbucket.org/jekyll
+   #- title: github
+   #  url: http://github.com/jekyll
+
+# Postal address (add as many lines as necessary)
+address:
+  #- line: Sandra Deubler
+  #- line: Langfurrenstrasse 38g
+  #- line: 8623 Wetzikon ZH
+
+# Credits content
+#credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+#for posts
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      permalink: ""
