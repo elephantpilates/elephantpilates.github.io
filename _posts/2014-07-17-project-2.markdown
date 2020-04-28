@@ -14,8 +14,8 @@ LektionPrivat: 125 CHF pro Lektion
 10AboPrivat: 1200 CHF, gültig für 4 Monate
 
 
-Zeiten: Zeiten auf Anfrage
+Zeiten: Zeiten auf Anfrage - Kurse und Preise in Wetzikon auf Anfrage
 
-Location: Talstrasse 39, 8001 Zürich
-description: Wir trainieren an den 3 bekanntesten klassischen Pilates-Geräten, dem Reformer, Cadillac und Wunda Chair. Diese Stundenform bietet Dir das umfassendste und abwechslungsreichste Pilatestraining. Aufgrund der Raumgrösse können leider derzeit nur Duett- und Einzelstunden angeboten werden. Eine Lektion dauert 50 Minuten.
+Location: Talstrasse 39, 8001 Zürich oder in 8623 Wetzikon ZH
+description: Wir trainieren an den 3 bekanntesten klassischen Pilates-Geräten, dem Reformer, Cadillac und Wunda Chair. Diese Stundenform bietet Dir das umfassendste und abwechslungsreichste Pilatestraining. Aufgrund der Raumgrösse können leider derzeit nur Duett- und Privatstunden angeboten werden. Eine Lektion dauert 50 Minuten.
 ---
