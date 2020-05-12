@@ -4,6 +4,6 @@ _site
 .sass-cache
 .jekyll-cache
 .jekyll-metadata
-.ai
+*.ai
 
 Gemfile.lock
