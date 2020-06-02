@@ -1,21 +1,18 @@
 ---
 layout: default
-title: Geräte-Kurse
+title: Personal Training
 modal-id: 2
 img: reformer.jpg
-alt: Geräte-Kurse
-marker: Zur Zeit können leider keine Kurse stattfinden
-
-LektionDuett: 80 CHF pro Lektion im Duett
-10AboDuett:  750 CHF, gültig für 4 Monate
+alt: Personal Training
+marker: Aufgrund der geltenden Abstandsregeln wegen Covid19 ist eine Kursdurchführung derzeit leider nicht möglich.s
 
 
-LektionPrivat: 125 CHF pro Lektion
-10AboPrivat: 1200 CHF, gültig für 4 Monate
+LektionPrivat: 120 CHF pro Lektion
+10AboPrivat: 1050 CHF, gültig für 5 Monate
 
 
-Zeiten: Zeiten auf Anfrage - Kurse und Preise in Wetzikon auf Anfrage
+Zeiten: Flexible Zeiten auf Anfrage
 
-Location: Talstrasse 39, 8001 Zürich oder in 8623 Wetzikon ZH
-description: Wir trainieren an den 3 bekanntesten klassischen Pilates-Geräten, dem Reformer, Cadillac und Wunda Chair. Diese Stundenform bietet Dir das umfassendste und abwechslungsreichste Pilatestraining. Aufgrund der Raumgrösse können leider derzeit nur Duett- und Privatstunden angeboten werden. Eine Lektion dauert 50 Minuten.
+Location: The Elephant Pilates Room, Langfurrenstrasse 38g, 8623 Wetzikon
+description: Suchst Du eine flexible Trainingsmöglichkeit? Mit einem Training, das genau auf Deine Bedürfnisse zugeschnitten ist? Du magst keine Gruppenstunden? Dann ist das Personal Training von Elephant Pilates genau das Richtige für Dich. Du trainierst an 2 klassischen Pilates-Geräten, dem Reformer und dem Tower, auch “Half-Cadillac” genannt. Das Einzeltraining wird auf Deine individuellen Bedürfnisse zugeschnitten und ermöglicht Dir somit maximalen Trainingserfolg. Geeignet für Anfänger in der Pilates-Methode, für amibitionierte Trainierende und für alle, die flexible Trainingszeiten bevorzugen. Eine Lektion dauert 50 Minuten.  
 ---
