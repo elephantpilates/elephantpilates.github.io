@@ -2,13 +2,13 @@
 title: Tower-Kurse
 layout: default
 modal-id: 1
-marker: Zur Zeit können leider keine Kurse stattfinden
+marker: Aufgrund der geltenden Abstandsregeln wegen Covid19 ist eine Kursdurchführung derzeit leider nicht möglich. Unterdessen findet ein online-Mattenkurs zu gleicher Zeit statt.
 #date: 2014-07-18
 img: Tower.jpg
 alt: Tower-Kurse
-10Abo: 400 CHF, gültig für 4 Monate
+10Abo: 400 CHF, gültig für 5 Monate
 Lektion: 45 CHF pro Lektion
 Zeiten: DO 12:30-13:30
 Location: Talstrasse 39, 8001 Zürich
-description: In einer Kleingruppe (max. 6 Teilnehmer) trainieren wir am Tower, auch "Half-Cadillac" genannt. Die Federzüge ermöglichen ein intensives, kräftigendes Training, welches die Muskeln stärkt und gleichzeitig den Körper gelenkiger macht. Gleichzeitig ermöglichen die Federn ein direktes Feedback während der Übungsausführung, decken Ungleichgewichte auf und fördert somit eine gesunde Körperhaltung. Ergänzt wird das Training durch Übungen auf der Matte. Eine Lektion dauert 50 Minuten.
+description: In einer Kleingruppe (max. 6 Teilnehmer) trainieren wir am Tower, auch "Half-Cadillac" genannt. Die Federzüge ermöglichen ein intensives, kräftigendes Training, welches die Muskeln stärkt und gleichzeitig den Körper gelenkiger macht. Zusätzlich ermöglichen die Federn ein direktes Feedback während der Übungsausführung, decken Ungleichgewichte auf und fördert somit eine gesunde Körperhaltung. Ergänzt wird das Training durch Übungen auf der Matte. Eine Lektion dauert 50 Minuten.
 ---
