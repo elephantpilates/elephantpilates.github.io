@@ -4,7 +4,7 @@ title: Personal Training
 modal-id: 2
 img: reformer.jpg
 alt: Personal Training
-marker: Aufgrund der geltenden Abstandsregeln wegen Covid19 ist eine Kursdurchführung derzeit leider nicht möglich.s
+#marker: Aufgrund der geltenden Abstandsregeln wegen Covid19 ist eine Kursdurchführung derzeit leider nicht möglich.s
 
 
 LektionPrivat: 120 CHF pro Lektion
