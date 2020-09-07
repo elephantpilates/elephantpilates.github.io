@@ -21,6 +21,9 @@
                             {% if post.Zeiten %}
                                 <p> <a> <strong>{{ post.Zeiten }}</strong></a></p>
                             {% endif %}
+                            {% if post.Zeiten1 %}
+                                <p> <a> <strong>{{ post.Zeiten1 }}</strong></a></p>
+                            {% endif %}
                             {% if  post.marker %}
                                 <p style = "color:#{{site.color.highlight}}"><b>{{ post.marker }}</b></p>
                             {% endif %}
@@ -30,6 +33,12 @@
                                 {% if post.Lektion %}
                                     <li><strong>Einzellektion:</strong>
                                         {{ post.Lektion }}
+                                    </li>
+                                {% endif %}
+                                {% if post.Quartalsabo %}
+                                    <li> <strong>Quartalsabo:</strong>
+                                         {{ post.Quartalsabo }}
+                                        
                                     </li>
                                 {% endif %}
                                 {% if post.10Abo %}
