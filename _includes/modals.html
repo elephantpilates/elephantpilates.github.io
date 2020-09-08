@@ -18,15 +18,20 @@
                             {% if post.description %}
                                 <p>{{ post.description }}</p>
                             {% endif %}
-                            {% if post.Zeiten %}
-                                <p> <a> <strong>{{ post.Zeiten }}</strong></a></p>
-                            {% endif %}
-                            {% if post.Zeiten1 %}
-                                <p> <a> <strong>{{ post.Zeiten1 }}</strong></a></p>
-                            {% endif %}
-                            {% if  post.marker %}
-                                <p style = "color:#{{site.color.highlight}}"><b>{{ post.marker }}</b></p>
-                            {% endif %}
+                           
+                           <p>
+                            {% if post.Zeiten %} <a> <strong>{{ post.Zeiten }}</strong></a> {% endif %}
+                            {% if post.Zeiten1 %} <br/> <a> <strong>{{ post.Zeiten1 }}</strong></a>{% endif %}
+                            {% if post.Zeiten2 %} <br/> <a> <strong>{{ post.Zeiten2 }}</strong></a>{% endif %}
+                            {% if post.Zeiten3 %} <br/> <a> <strong>{{ post.Zeiten3 }}</strong></a>{% endif %}
+                            {% if post.Zeiten4 %} <br/> <a> <strong>{{ post.Zeiten4 }}</strong></a>{% endif %}
+                            </p>
+                            {% if  post.marker %}<p style = "color:#{{site.color.highlight}}"><b>{{ post.marker }}</b></p>{% endif %}
+                            <p>
+                                {% if post.Zeiten5 %}{{ post.Zeiten5 }}{% endif %} 
+                            </p>  
+                            
+                            
 
 
                             <ul class="list-inline item-details">
