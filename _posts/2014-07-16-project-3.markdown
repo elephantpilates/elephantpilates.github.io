@@ -4,7 +4,8 @@ title: Online Matten-Kurse
 layout: default
 modal-id: 3
 Sportsnow: ja
-img: FrauMatte.jpg
+img: online_pilates_parchen.jpg
+#img: FrauMatte.jpg
 alt: Online Matten-Kurse
 
 #10Abo: 200 CHF, gültig für 5 Monate
