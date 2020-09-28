@@ -2,7 +2,7 @@
 title: eine starke Ausstrahlung
 type: target_client
 layout: default
-modal-id: 4
+modal-id: 14
 
 #img: rect815.png
 #alt: Barrel-Mattenkurse
