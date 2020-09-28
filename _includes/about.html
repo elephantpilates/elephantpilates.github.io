@@ -21,6 +21,29 @@
                 </div> -->
             </div>
         </div>
+        
+        <div class="container">  
+            <div class="row">
+                <div class="col-lg-4 col-lg-offset-2">
+                    <h3>Pilates für ...</h3>
+                    
+                </div>
+            </div>
+            <div class="row"></div>
+                    {% for post in site.posts %}
+                        {% if post.type =="target_client"%}
+                            <div class="col-lg-offset-2">
+                                <a href="#portfolioModal-{{ post.modal-id }}" data-toggle="modal">
+                                    <p style = "color:#ffffff; text-decoration: underline;">...{{ post.title }}</p>
+                                </a>
+                            </div>
+                        {%endif%}
+                    {% endfor %}
+                    <div class="col-lg-offset-2">
+                        <p>Und weil es Spass macht!</p>
+                    </div>
+                </div>    
+        </div>
     </section>
 
      
