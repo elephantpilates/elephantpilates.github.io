@@ -1,0 +1,10 @@
+---
+title: mehr Mobilität im Alter
+type: target_client
+layout: default
+modal-id: 13
+#date: 2014-07-18
+#img: rect815.png
+#alt: FÜR MEHR MOBILITÄT IM ALTER
+description: Die Mobiliät im Alter nimmt für die meisten Menschen eine immer höhere Priorität an, durch eine steife Wirbelsäule wird diese stark eingeschränkt. Beim Training von Elephant Pilates trainierst Du Deine Tiefenmuskulatur und damit Deine Stabilität, Deine Balance verbessert sich und die regelmässig eingebauten sanften Dehnungen helfen, Deinem Körper wieder zu alter Länge zu verhelfen. Pilates ist für alle Altersgruppen und Fitnesslevel geeignet. 
+---

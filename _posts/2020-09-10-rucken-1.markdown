@@ -1,0 +1,14 @@
+---
+title: einen starken Rücken und eine gesunde Körperhaltung
+title2: einen starken Rücken und eine gesunde Körper-haltung
+type: target_client
+layout: default
+modal-id: 11
+#marker: Start ab 12. Oktober, der Einstieg danach ist jederzeit möglich.
+#Sportsnow: ja
+#date: 2014-07-18
+#img: neu.jpg
+#alt: FÜR EINEN STARKEN RÜCKEN UND EINE GESUNDE KÖRPERHALTUNG
+description: Du wirst immer steifer, Dein Rücken tut weh, der Nacken spannt? Dann geht es Dir, wie den meisten von uns. Je nach Arbeit verbringen wir den gesamten Tag in den gleichen eingeschränkten Bewegungsmustern - oder bewegen uns so gut wie gar nicht mehr. Die Pilateskurse von Elephant Pilates helfen Dir, Deine Muskulatur dort zu trainineren, wo sie es am dringendsten nötig hat und wo andere Sportarten oft nicht ankommen - Du stärkst die Tiefenmuskulatur, Deine Haltung korrigiert sich und mit der Zeit werden Deine Beschwerden gelindert. Ich integriere dehnende Elemente in das Training, welche Deinem Körper zu ungewohnter Länge verhelfen. Die Konzentration auf die korrekte Übungsausführung sowie die bewusste Atmung helfen Stress abzubauen.
+
+---
