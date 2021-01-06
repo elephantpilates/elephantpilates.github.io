@@ -2,6 +2,7 @@
 layout: default
 title: Personal Training
 modal-id: 2
+row: row1
 img: reformer.jpg
 alt: Personal Training
 #marker: Aufgrund der geltenden Abstandsregeln wegen Covid19 ist eine Kursdurchführung derzeit leider nicht möglich.s

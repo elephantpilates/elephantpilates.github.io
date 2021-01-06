@@ -9,12 +9,12 @@ img: online_pilates_parchen.jpg
 #img: FrauMatte.jpg
 alt: Online Matten-Kurse
 
-#10Abo: 200 CHF, gültig für 5 Monate
-Lektion: 20 CHF pro Lektion
+10Abo: 200 CHF, gültig für 5 Monate
+Lektion: 25 CHF pro Lektion
 
 Zeiten: MO 20:00-21:00
-Zeiten1: MI 7:00-8:00
-Zeiten2: FR 12:15-13:15
+Zeiten1: MI 20:30-21:30
+Zeiten2: DO 12:15-13:15
 Location: online in Deinem Wohnzimmer
 description: Du hast abends keine Lust mehr aus dem Haus zu gehen oder suchst eine Sportmöglichkeit tagsüber, die Du ohne grossen Aufwand von zu Hause aus wahrnehmen kannst? Dann sind unsere online-Kurse genau das Richtige für Dich. Suche Dir eine Matte oder weiche Unterlage und wähle Dich per Klick von Deinem Laptop, Tablet oder Mobilephone in den Kurs ein. Es erwartet Dich ein abwechslungsreiches Programm in kleiner Gruppengrösse, das Dich sowohl kräftigt als auch dehnt. Live durchgeführt und per Videostream übertragen. Eine gesunde und individuelle Abwechslung in Deinem Alltag. Eine Lektion dauert 50 Minuten.
 
