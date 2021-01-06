@@ -32,6 +32,7 @@ color:
   primary-rgb: "199, 221, 198" #-------"163,204,188" #"128,179,255" Hintergrund bei Projekten
   secondary: 3e5449 #465a46 #-------5F6B39 #708C81 #FD6E8A Footer #6F8060
   secondary-dark: 3e5449 #303c30 #-------3D4D47 #A2122F Überschrift
+  text-dark: 527061
   mobile-rgb: "255, 255, 255"
   highlight: 704370
 

@@ -69,11 +69,11 @@ hr.star-light:after {
 }
 
 hr.star-primary {
-    border-color: #{{ site.color.secondary }};
+    border-color: #{{ site.color.text-dark }};
 }
 
 hr.star-primary:after {
-    color: #{{ site.color.secondary }};
+    color: #{{ site.color.text-dark }};
     background-color: #fff;
 }
 hr.star-light-none {
@@ -102,7 +102,7 @@ hr.star-light-none:after {
 
 header {
     text-align: center;
-    color: #fff;
+    color: #fffdfc;
     background: #{{ site.color.primary }};
 }
 
@@ -202,7 +202,7 @@ section h2 {
 
 section.why {
     padding: 0 0;
-    color: #fff;
+    color: #fffdfc;
     background: #{{ site.color.primary }};
 }
 
@@ -210,13 +210,13 @@ section.why h2:after{
     padding: 0 30px;
 }
 section.success {
-    color: #fff;
+    color: #fffdfc;
     background: #{{ site.color.primary }};
 }
 
 section.team {
-    color: #{{ site.color.secondary }};
-    background: #fff;
+    color: #{{ site.color.text-dark }};
+    background: #fffdfc;
 }
 
 @media(max-width:767px) {
