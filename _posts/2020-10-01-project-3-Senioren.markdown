@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Pilates für Senioren/innen (online)
-modal-id: 3
+modal-id: 5
 row: row2
 img: Seniorin online Pilates_800.png
 alt: Pilates für Senioren/innen (online)
