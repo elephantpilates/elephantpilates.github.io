@@ -1,16 +1,16 @@
 ---
 layout: default
-title: Pilates für Senioren/innen (online)
+title: Pilates für Senioren /innen (online)
 modal-id: 5
 row: row2
 img: Seniorin online Pilates_800.png
-alt: Pilates für Senioren/innen (online)
+alt: Pilates für Senioren /innen (online)
 #marker: Aufgrund der geltenden Abstandsregeln wegen Covid19 ist eine Kursdurchführung derzeit leider nicht möglich.
 
 
 10Abo: 200 CHF, gültig für 5 Monate
 Lektion: 25 CHF pro Lektion
-
+PreisView: 20 CHF pro Lektion im 10er Abo
 
 Zeiten: DO 16:30 - 17:30
 

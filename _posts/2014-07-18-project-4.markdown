@@ -1,5 +1,5 @@
 ---
-title: Barrel-Mattenkurse
+title: Barrel-Matten-Kurse
 layout: default
 modal-id: 1
 row: row1
@@ -11,6 +11,7 @@ alt: Barrel-Mattenkurse
 10Abo: 350 CHF, gültig für 15 Wochen
 Quartalsabo: 28 CHF pro Lektion
 Zeiten: MO 18:30-19:30
+PreisView: 28 CHF pro Lektion im Quartalsabo
 #Zeiten1: MI 8:15-9:15
 #Zeiten2: DO 14:00 - 15:00
 #Zeiten3: DO 17:30 - 18:30

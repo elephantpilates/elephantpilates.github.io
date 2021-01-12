@@ -10,6 +10,7 @@ alt: Personal Training
 
 LektionPrivat: 120 CHF pro Lektion
 10AboPrivat: 1050 CHF, gültig für 5 Monate
+PreisView: 105 CHF pro Lektion im 10er Abo
 
 
 Zeiten: Flexible Zeiten auf Anfrage
