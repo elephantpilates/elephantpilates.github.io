@@ -16,8 +16,13 @@
                             <a href="#portfolioModal-{{ post.modal-id }}" class="portfolio-link" data-toggle="modal">
                                 <div class="caption">
                                     <div class="caption-content">
-                                        <span style = "color:#{{site.color.secondary}}"> <strong>{{ post.title }}</strong></span>
-                                        <!--<i class="fa fa-search-plus fa-3x"></i>-->
+                                        <p> <span style = "color:#{{site.color.secondary}}"> <strong>{{ post.title }}</strong>
+                                            <br/><small><small>{{ post.Zeiten }}</small></small>
+                                            {% if post.Zeiten1 %} <br/><small><small>{{ post.Zeiten1 }}</small> </small>{% endif%}
+                                            {% if post.Zeiten2 %} <br/><small><small>{{ post.Zeiten2 }}</small></small> {% endif%}
+                                            {% if post.PreisView %}<br/> <small><small><small><small>{{ post.PreisView }} </small></small></small></small>{% endif%}</span>
+
+                                        </p>
                                     </div>
                                 </div>
                                 <img src="img/portfolio/{{ post.img }}" class="img-responsive" alt="{{ post.alt }}">
@@ -35,8 +40,15 @@
                         <a href="#portfolioModal-{{ post.modal-id }}" class="portfolio-link" data-toggle="modal">
                             <div class="caption">
                                 <div class="caption-content">
-                                    <span style = "color:#{{site.color.secondary}}"> <strong>{{ post.title }}</strong></span>
-                                    <!--<i class="fa fa-search-plus fa-3x"></i>-->
+                                    <p> <span style = "color:#{{site.color.secondary}}"> <strong>{{ post.title }}</strong>
+                                        <br/><small><small>{{ post.Zeiten }}</small></small>
+                                        {% if post.Zeiten1 %} <br/><small><small>{{ post.Zeiten1 }}</small> </small>{% endif%}
+                                        {% if post.Zeiten2 %} <br/><small><small>{{ post.Zeiten2 }}</small></small> {% endif%} 
+                                        
+                                        {% if post.PreisView %}<br/> <small><small><small><small>{{ post.PreisView }} </small></small></small></small>{% endif%}</span>
+
+
+                                    </p>
                                 </div>
                             </div>
                             <img src="img/portfolio/{{ post.img }}" class="img-responsive" alt="{{ post.alt }}">
