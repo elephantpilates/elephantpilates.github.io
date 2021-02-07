@@ -2,7 +2,7 @@
 title: Online Matten-Kurse
 
 layout: default
-modal-id: 3
+modal-id: 1
 row: row1
 Sportsnow: ja
 img: online_pilates_parchen.jpg

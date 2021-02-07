@@ -1,7 +1,7 @@
 ---
 title: Barrel-Matten-Kurse
 layout: default
-modal-id: 1
+modal-id: 2
 row: row1
 marker: Aufgrund von der COVID-19 Situation dürfen derzeit keine Präsenzkurse stattfinden.
 Sportsnow: ja
