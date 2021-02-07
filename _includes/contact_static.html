@@ -40,6 +40,25 @@
 					<div class="row">
 						<div class="form-group col-xs-12">
 							<button type="submit" style = "background-color:#{{ site.color.primary }}" class="btn btn-default">Senden</button>
+							<!-- Event snippet for Kontaktformular conversion page
+In your html page, add the snippet and call gtag_report_conversion when someone clicks on the chosen link or button. -->
+<script>
+	function gtag_report_conversion(url) {
+	  var callback = function () {
+		if (typeof(url) != 'undefined') {
+		  window.location = url;
+		}
+	  };
+	  gtag('event', 'conversion', {
+		  'send_to': 'AW-611672787/jajGCOz-zvQBENPF1aMC',
+		  'event_callback': callback
+	  });
+	  return false;
+	}
+	</script>
+	
+						
+						
 						</div>
 					</div>
 				</form>
