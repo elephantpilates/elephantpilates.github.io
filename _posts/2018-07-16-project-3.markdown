@@ -12,9 +12,9 @@ alt: Online Matten-Kurse
 10Abo: 200 CHF, gültig für 5 Monate
 Lektion: 25 CHF pro Lektion
 
-Zeiten: MO 20:00-21:00 (Intermediate)
+Zeiten: MO 20:00-21:00 (Starter & Intermediate)
 Zeiten1: MI 20:30-21:30 (Advanced)
-Zeiten2: DO 12:15-13:15 (Intermediate)
+Zeiten2: DO 12:00-13:00 (Starter & Intermediate)
 Zeiten3: DO 17:30-18:15 (Starter)
 PreisView: 20 CHF pro Lektion im 10er Abo
 Location: online in Deinem Wohnzimmer
