@@ -55,8 +55,6 @@
             <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
         <![endif]-->
 
-
-
         <!-- ========== Preloader ========== -->
 
         <div class="preloader">
@@ -465,7 +463,49 @@
 
                 
         
-          c
+          <!-- Contact Form -->
+          <header id = "contact" class="sec-heading">
+            <h2>Schreib uns</h2>
+            <span class="subheading">Wir freuen uns von Dir zu hören!</span>
+          </header>
+        <div class="contact-wrapper">
+          <div class="container">
+            <form action="https://formspree.io/f/mwkrelzy" method="POST" name="sentMessage" id="contactForm" novalidate>
+              <div class="col-md-offset-2 col-md-4 wow fadeInUp" data-wow-duration="1s">
+
+                <!-- Name -->
+                <div class="form-group">
+                  <input type="name" name="NAME" id="name-contact-1" class="form-control validate-locally" placeholder="Enter your name">
+                  <label for="name-contact-1">Name</label>
+                  <span class="pull-right alert-error"></span>
+                </div>
+
+                <!-- Email -->
+                <div class="form-group">
+                  <input type="email" name="EMAIL" id="email-contact-1" class="form-control validate-locally" placeholder="Enter your email">
+                  <label for="email-contact-1">Email</label>
+                  <span class="pull-right alert-error"></span>
+                </div>
+
+              </div> <!-- / .wow fadeInUp -->
+
+              <div class="col-md-4 wow fadeInUp" data-wow-duration="1s">
+
+                <!-- Message -->
+                <div class="form-group">
+                  <textarea name="message" id="message-contact-1" class="form-control" rows="5" placeholder="Your Message"></textarea>
+                  <label for="message-contact-1">Message</label>
+                </div>
+                <div>
+                  <input type="submit" class="btn pull-right" value="Send Message">
+                </div>
+
+                <!-- Ajax Message -->
+                <div class="ajax-message col-md-12 no-gap"></div>
+
+              </div><!-- / .col-md-4 -->
+
+            </form>
               </div><!-- / .container -->        
             </div><!-- / .contact-wrapper -->
         </section><!-- / .contact-1 -->
